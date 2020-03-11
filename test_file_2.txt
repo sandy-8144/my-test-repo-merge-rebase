@@ -3,3 +3,4 @@ changes in file 2 f2
 d2
 MM4
 MM5
+MM6
